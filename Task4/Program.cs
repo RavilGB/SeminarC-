@@ -5,7 +5,7 @@
 */
 
 
-Console.WriteLine("Введите число:");
+/*Console.WriteLine("Введите число:");
 int number = Convert.ToInt32(Console.ReadLine());
 
 number = Math.Abs(number);
@@ -13,4 +13,13 @@ number = Math.Abs(number);
 for (int i = -number; i <= number; i++)
 {
 Console.Write($"{i}, ");
+}
+*/
+
+Math.Abs(double.Parse(Console.ReadLine()));
+double num2 =-num;
+while(num2 <= num)
+{
+Console.WriteLine(num2);
+num2++;
 }
