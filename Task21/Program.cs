@@ -1,5 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-/*Console.WriteLine("Hello, World!");
+﻿/*// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 AB = √(xb - xa)2 + (yb - ya)2
 Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 2D пространстве.
 
@@ -46,8 +46,8 @@ Console.WriteLine(result);
 
 5 -> 1, 4, 9, 16, 25.
 2 -> 1,4
-*/
-/*Напишите программу, которая принимает на вход число (N) и выдаёт таблицу квадратов чисел 
+*
+Напишите программу, которая принимает на вход число (N) и выдаёт таблицу квадратов чисел 
 от 1 до N.
 
 5 -> 1, 4, 9, 16, 25.
@@ -82,3 +82,4 @@ for(int i=1;i<=lin;i++)
 {
     Console.Write($" {Math.Pow(i,2)}, ");
 }
+*/
