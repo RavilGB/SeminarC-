@@ -1,7 +1,7 @@
 ﻿// Напишите программу, которая по заданному номеру четверти, показывает диапазон возможных координат точек в этой четверти (x и y).
 
 //Получение номера четверти.
-/*int GetNumber(string message)
+int GetNumber(string message)
 {
     int result = 0;
     bool isCorrect = false;
@@ -33,4 +33,3 @@ int number = GetNumber("Введите число четверти (от 1 до 
 string quarter = GetQuarter(number);
 
 Console.WriteLine($"Для четвери {number}: {quarter}");
-*/

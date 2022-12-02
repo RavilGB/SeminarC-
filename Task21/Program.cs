@@ -52,7 +52,7 @@ Console.WriteLine(result);
 
 5 -> 1, 4, 9, 16, 25.
 2 -> 1,4
-*/
+
 
 int GetNumber(string message)
 {
